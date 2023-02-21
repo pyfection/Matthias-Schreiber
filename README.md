@@ -1,10 +1,10 @@
 # 💫About Me :
-Python 🐍 Mentor 🧑‍🏫<br>
+## Python Mentor 🐍🧑‍🏫<br>
 1️⃣3️⃣ years of experience as Developer.
 Love to teach people all about the Python programming language and programming in general.
 Ask me anything you want, don't be shy.
 
-Fun fact: I live in Paraguay (don't track me)
+**Fun fact:** I live in Paraguay 🇵🇾 (don't track me)
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/users/886345333557317673) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100088411071675) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pythonmentor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthias-schreiber-0436a3126/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6311436/matthias-schreiber) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@pythonmentor) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/PythonMentor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pythonmentor) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCsPbR6RtwXyOSB4b4k24EIQ) 
